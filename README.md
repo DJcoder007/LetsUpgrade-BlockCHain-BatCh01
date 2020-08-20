@@ -1,2 +1,2 @@
-# LetsUpgrade-BlockCHain-BatCh01
-An Intro to Cloud Computing and AWS
+# LetsUpgrade-BlockCHain-BatCh02
+An Intro to Blockchain & It's Applications
